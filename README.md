@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9FC700&height=150&section=header" />
 
-# 🌿 Buddle 🌿 </br> 교내 장애인 학우를 위한 봉사 활동 장려 웹 개발  
+# 🌿 Buddle 🌿 </br> Web development to encourage volunteer activities for students with disabilities on campus
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/solidity-007ACC?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20CE-0000CD?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -42,9 +42,9 @@ NFT를 통한 리워드 차등 지급으로 봉사에 대한 참여도를 향상
 # ✍️ 주요 API ✍️
 </div>
 
-### ☘️ 잔액 확인 API
+### ☘️ Checking Asset API
 - 보유한 이더량 확인
-### ☘️ NFT생성 및 전송 API
+### ☘️ NFT minting and transfer API
 - 전송받은 지갑주소로 해당하는 NFT 자동 전송
 ## 
 <br/><br/>
